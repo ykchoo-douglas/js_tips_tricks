@@ -3,3 +3,5 @@ for (const key in global) {
 }
 
 console.log('hello world');
+
+// added solve chess puzzles
